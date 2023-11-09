@@ -2,4 +2,4 @@
 
 [![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wascharapon&layout=compact&langs_count=8&theme=react)](https://github.com/wascharapon/AgelCyber)
 
-[![GitHub WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wascharapon)](https://github.com/wascharapon/AgelCyber)
+[![GitHub WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wascharapon)](https://github.com/wascharapon)
